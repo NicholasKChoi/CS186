@@ -2,7 +2,7 @@
 
 ## Logistics
 
-**Due date: Monday 10/11/16, 11:59:59 PM**
+**Due date: Tuesday 10/11/16, 11:59:59 PM**
 
 ### Grading
 
@@ -15,7 +15,7 @@ This project is worth **15%** of your overall course grade. Your project grade w
 
 You can earn up to 10 points in extra credit:
 
-* 5 points for submitting **one week** before the due date (10/04/16, 11:59:59 PM).
+* 5 points for submitting **one week** before the due date (Tuesday 10/04/16, 11:59:59 PM).
 * Up to 5 points for how effective your tests are. The way we will determine the effectiveness of your tests is based on how many edge cases you identify that the rest of the class did not identify. You **will not** be graded on how many other students' tests you pass.
 
 ## Background
