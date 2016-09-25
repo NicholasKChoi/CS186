@@ -53,9 +53,11 @@ For the projects, we’ll be using [Maven](https://maven.apache.org/index.html) 
 
 **NOTE**: If you're running Windows, make sure that the `\bin` directory of the unzipped Maven folder (e.g. `C:\Program Files\Maven\bin`) is added to your `PATH` environment variable.
 
-To compile your code, you can run `mvn clean compile`. To run all of the tests that we've provided for you, you can run `mvn test`. To run a single test file, you can run `mvn test -Dtest=TEST_NAME` (e.g. `mvn test -Dtest=TestTable`). You should run these commands from the `projects` directory (the directory that contains this `SPEC.md` file). The first time you run these commands, Maven will download a bunch of dependencies and may take a while. **NOTE**: `mvn test` is what we're going to be using to run your tests!
+To compile your code, you can run `mvn clean compile`. To run all of the tests that we've provided for you, you can run
+`mvn test`. To run a single test file, you can run `mvn test -Dtest=TEST_NAME` (e.g. `mvn test -Dtest=TestTable`). You
+should run these commands from the `projects` directory (the directory that contains this `Project1Spec.md` file). The first time you run these commands, Maven will download a bunch of dependencies and may take a while. **NOTE**: `mvn test` is what we're going to be using to run your tests!
 
-Right off the bat, you should be passing a number of the tests. In particular, any tests correpsonding to `DataType`'s and any of the `io` code should be passing. Please ensure that they are before moving forward. If those components are not working properly on your system, then it's likely that none of the rest of the code will either!
+Right off the bat, you should be passing a number of the tests. In particular, any tests corresponding to `DataType`'s and any of the `io` code should be passing. Please ensure that they are before moving forward. If those components are not working properly on your system, then it's likely that none of the rest of the code will either!
 
 ### Writing Code
 
@@ -119,7 +121,7 @@ You can find more examples in the `QueryPlanTest`.
 
 ## Your Assignment
 
-Alright, now we can write some code! **NOTE**: Throughout this project, you're more than welcome to add any and all helper methods you'd like to write. However, it is very important that you **do not change any of the interfaces that we've given you**.
+Alright, now we can write some code! **NOTE**: Throughout this project, you're more than welcome to add any and all helper methods you'd like to write. However, it is very important that you **do not change any of the interfaces that we've given you**. It's also a good idea to always check the course repo for updates on the project.
 
 ### Part 1: Tables
 
