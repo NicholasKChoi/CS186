@@ -9,7 +9,7 @@
 This project is worth **15%** of your overall course grade. Your project grade will be out of 100 points:
 
 * 90 points for passing all of the tests provided for you. All tests are in `src/test/java/edu/berkeley/cs186/database`, so you can run them as you write code and inspect the tests to debug. Our testing provides extensive unit testing and some integration (end-to-end) testing.
-* 10 points for writing your own, valid tests. The tests **must** pass both your implementation and the staff solution to be considered valid tests.
+* 10 points for writing your own, valid tests (10 tests total, 1 point each). The tests **must** pass both your implementation and the staff solution to be considered valid tests.
 
 ### Extra Credit
 
